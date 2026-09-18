@@ -1,0 +1,44 @@
+name: Weekly bounty scout
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Monday 09:10 in Asia/Shanghai (01:10 UTC).
+    - cron: "10 1 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bounty-scout
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Scan GitHub bounties
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python bounty_scout.py --limit 8
+
+      - name: Save report when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f reports/latest.md reports/latest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh bounty report"
+          git push
+
+
