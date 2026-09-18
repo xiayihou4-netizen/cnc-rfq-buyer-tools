@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-09-18T15:17:05.145025+00:00",
+  "candidates": [
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2776",
+      "title": "POST /api/reviews endpoint missing authentication middleware (reissue via #743)",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 8,
+      "repo_stars": 297,
+      "repo_archived": false,
+      "updated_at": "2026-09-06T19:17:45Z"
+    },
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
+      "title": "User creation endpoint has no input validation",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 14,
+      "repo_stars": 297,
+      "repo_archived": false,
+      "updated_at": "2026-09-04T04:17:26Z"
+    },
+    {
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
+      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
+      "repository": "Nexussyn/ai-growth-engine",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -29,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "验收条件较明确"
+      ],
+      "comments": 24,
+      "repo_stars": 7,
+      "repo_archived": false,
+      "updated_at": "2026-09-17T19:49:12Z"
+    },
+    {
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
+      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
+      "repository": "Nexussyn/ai-growth-engine",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -29,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "验收条件较明确"
+      ],
+      "comments": 24,
+      "repo_stars": 7,
+      "repo_archived": false,
+      "updated_at": "2026-09-17T00:35:24Z"
+    },
+    {
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "repository": "Nexussyn/ai-growth-engine",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -29,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "验收条件较明确"
+      ],
+      "comments": 23,
+      "repo_stars": 7,
+      "repo_archived": false,
+      "updated_at": "2026-09-11T08:47:31Z"
+    },
+    {
+      "url": "https://github.com/xevrion-v2/agent-playground/issues/11",
+      "title": "Write unit tests for leaderboard updates",
+      "repository": "xevrion-v2/agent-playground",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -35,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "竞争或噪声过高",
+        "验收条件较明确"
+      ],
+      "comments": 39,
+      "repo_stars": 304,
+      "repo_archived": false,
+      "updated_at": "2026-09-16T23:22:43Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
+      "title": "[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -36,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "当前竞争较低",
+        "验收条件不够明确"
+      ],
+      "comments": 2,
+      "repo_stars": 8,
+      "repo_archived": false,
+      "updated_at": "2026-09-15T14:24:32Z"
+    },
+    {
+      "url": "https://github.com/xevrion-v2/agent-playground/issues/5",
+      "title": "Improve Prisma schema comments",
+      "repository": "xevrion-v2/agent-playground",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -43,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "竞争或噪声过高",
+        "验收条件较明确"
+      ],
+      "comments": 42,
+      "repo_stars": 304,
+      "repo_archived": false,
+      "updated_at": "2026-08-30T12:09:41Z"
+    }
+  ]
+}
