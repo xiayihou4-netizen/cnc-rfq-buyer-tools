@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-18T15:17:05.145025+00:00",
+  "generated_at": "2026-09-21T06:16:14.118879+00:00",
   "candidates": [
+    {
+      "url": "https://github.com/xevrion-v2/agent-playground/issues/33",
+      "title": "Bug Bounty Program — How to Participate",
+      "repository": "xevrion-v2/agent-playground",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 17,
+      "repo_stars": 307,
+      "repo_archived": false,
+      "updated_at": "2026-09-21T06:06:44Z"
+    },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2776",
       "title": "POST /api/reviews endpoint missing authentication middleware (reissue via #743)",
@@ -16,9 +35,28 @@
         "验收条件不够明确"
       ],
       "comments": 8,
-      "repo_stars": 297,
+      "repo_stars": 299,
       "repo_archived": false,
       "updated_at": "2026-09-06T19:17:45Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
+      "title": "[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -24,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "事项近期活跃",
+        "当前竞争较低",
+        "验收条件不够明确"
+      ],
+      "comments": 2,
+      "repo_stars": 10,
+      "repo_archived": false,
+      "updated_at": "2026-09-15T14:24:32Z"
     },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
@@ -26,75 +64,17 @@
       "repository": "SecureBananaLabs/bug-bounty",
       "reward_usd": null,
       "reward_source": null,
-      "score": -20,
+      "score": -28,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
         "仓库有一定社区基础",
-        "事项近期活跃",
         "验收条件不够明确"
       ],
       "comments": 14,
-      "repo_stars": 297,
+      "repo_stars": 299,
       "repo_archived": false,
       "updated_at": "2026-09-04T04:17:26Z"
-    },
-    {
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
-      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
-      "repository": "Nexussyn/ai-growth-engine",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -29,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 24,
-      "repo_stars": 7,
-      "repo_archived": false,
-      "updated_at": "2026-09-17T19:49:12Z"
-    },
-    {
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
-      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
-      "repository": "Nexussyn/ai-growth-engine",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -29,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 24,
-      "repo_stars": 7,
-      "repo_archived": false,
-      "updated_at": "2026-09-17T00:35:24Z"
-    },
-    {
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
-      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
-      "repository": "Nexussyn/ai-growth-engine",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -29,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 23,
-      "repo_stars": 7,
-      "repo_archived": false,
-      "updated_at": "2026-09-11T08:47:31Z"
     },
     {
       "url": "https://github.com/xevrion-v2/agent-playground/issues/11",
@@ -112,48 +92,69 @@
         "验收条件较明确"
       ],
       "comments": 39,
-      "repo_stars": 304,
+      "repo_stars": 307,
       "repo_archived": false,
       "updated_at": "2026-09-16T23:22:43Z"
     },
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
-      "title": "[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "url": "https://github.com/copperheadhq/copperhead/issues/66",
+      "title": "Bounty: end-to-end test copperhead create (brief → clean full run) + findings report",
+      "repository": "copperheadhq/copperhead",
       "reward_usd": null,
       "reward_source": null,
-      "score": -36,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "当前竞争较低",
-        "验收条件不够明确"
-      ],
-      "comments": 2,
-      "repo_stars": 8,
-      "repo_archived": false,
-      "updated_at": "2026-09-15T14:24:32Z"
-    },
-    {
-      "url": "https://github.com/xevrion-v2/agent-playground/issues/5",
-      "title": "Improve Prisma schema comments",
-      "repository": "xevrion-v2/agent-playground",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -43,
+      "score": -55,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
         "仓库有一定社区基础",
-        "竞争或噪声过高",
+        "事项近期活跃",
+        "竞争或噪声极高",
         "验收条件较明确"
       ],
-      "comments": 42,
-      "repo_stars": 304,
+      "comments": 99,
+      "repo_stars": 274,
       "repo_archived": false,
-      "updated_at": "2026-08-30T12:09:41Z"
+      "updated_at": "2026-09-20T06:31:41Z"
+    },
+    {
+      "url": "https://github.com/xevrion-v2/agent-playground/issues/7",
+      "title": "Add API error handling helper",
+      "repository": "xevrion-v2/agent-playground",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -55,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "竞争或噪声极高",
+        "验收条件较明确"
+      ],
+      "comments": 60,
+      "repo_stars": 307,
+      "repo_archived": false,
+      "updated_at": "2026-09-20T02:10:15Z"
+    },
+    {
+      "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
+      "title": "Fix typo in README",
+      "repository": "xevrion-v2/agent-playground",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -55,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "竞争或噪声极高",
+        "验收条件较明确"
+      ],
+      "comments": 121,
+      "repo_stars": 307,
+      "repo_archived": false,
+      "updated_at": "2026-09-18T18:12:22Z"
     }
   ]
 }
