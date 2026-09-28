@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T06:16:14.118879+00:00",
+  "generated_at": "2026-09-28T06:47:57.804554+00:00",
   "candidates": [
     {
-      "url": "https://github.com/xevrion-v2/agent-playground/issues/33",
-      "title": "Bug Bounty Program — How to Participate",
-      "repository": "xevrion-v2/agent-playground",
+      "url": "https://github.com/Mantitup-Org/vista/issues/61",
+      "title": "Bounty: hunt bugs across the entire Vista framework",
+      "repository": "Mantitup-Org/vista",
       "reward_usd": null,
       "reward_source": null,
       "score": -20,
@@ -15,10 +15,48 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 17,
-      "repo_stars": 307,
+      "comments": 13,
+      "repo_stars": 2398,
       "repo_archived": false,
-      "updated_at": "2026-09-21T06:06:44Z"
+      "updated_at": "2026-09-23T17:14:01Z"
+    },
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
+      "title": "Admin routes lack role-based access control — any authenticated user can access admin endpoints",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 15,
+      "repo_stars": 300,
+      "repo_archived": false,
+      "updated_at": "2026-09-23T09:43:47Z"
+    },
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
+      "title": "User creation endpoint has no input validation",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 16,
+      "repo_stars": 300,
+      "repo_archived": false,
+      "updated_at": "2026-09-23T09:43:33Z"
     },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2776",
@@ -34,10 +72,30 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 8,
-      "repo_stars": 299,
+      "comments": 11,
+      "repo_stars": 300,
       "repo_archived": false,
-      "updated_at": "2026-09-06T19:17:45Z"
+      "updated_at": "2026-09-23T09:43:26Z"
+    },
+    {
+      "url": "https://github.com/OphirPay/OphirPay/issues/810",
+      "title": "Handle payment request expiration and reminders",
+      "repository": "OphirPay/OphirPay",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -21,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "当前竞争较低",
+        "验收条件较明确"
+      ],
+      "comments": 4,
+      "repo_stars": 4,
+      "repo_archived": false,
+      "updated_at": "2026-09-27T17:00:49Z"
     },
     {
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
@@ -53,108 +111,48 @@
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 2,
+      "comments": 4,
       "repo_stars": 10,
       "repo_archived": false,
-      "updated_at": "2026-09-15T14:24:32Z"
+      "updated_at": "2026-09-26T15:13:20Z"
     },
     {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
-      "title": "User creation endpoint has no input validation",
-      "repository": "SecureBananaLabs/bug-bounty",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
+      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
+      "repository": "Nexussyn/ai-growth-platform",
       "reward_usd": null,
       "reward_source": null,
-      "score": -28,
+      "score": -29,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "验收条件不够明确"
-      ],
-      "comments": 14,
-      "repo_stars": 299,
-      "repo_archived": false,
-      "updated_at": "2026-09-04T04:17:26Z"
-    },
-    {
-      "url": "https://github.com/xevrion-v2/agent-playground/issues/11",
-      "title": "Write unit tests for leaderboard updates",
-      "repository": "xevrion-v2/agent-playground",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -35,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
+        "仓库社区信号很弱",
         "事项近期活跃",
-        "竞争或噪声过高",
         "验收条件较明确"
       ],
-      "comments": 39,
-      "repo_stars": 307,
+      "comments": 18,
+      "repo_stars": 2,
       "repo_archived": false,
-      "updated_at": "2026-09-16T23:22:43Z"
+      "updated_at": "2026-09-27T21:45:04Z"
     },
     {
-      "url": "https://github.com/copperheadhq/copperhead/issues/66",
-      "title": "Bounty: end-to-end test copperhead create (brief → clean full run) + findings report",
-      "repository": "copperheadhq/copperhead",
+      "url": "https://github.com/OphirPay/OphirPay/issues/795",
+      "title": "Extend the currency display toggle beyond the payments table",
+      "repository": "OphirPay/OphirPay",
       "reward_usd": null,
       "reward_source": null,
-      "score": -55,
+      "score": -29,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
+        "仓库社区信号很弱",
         "事项近期活跃",
-        "竞争或噪声极高",
         "验收条件较明确"
       ],
-      "comments": 99,
-      "repo_stars": 274,
+      "comments": 9,
+      "repo_stars": 4,
       "repo_archived": false,
-      "updated_at": "2026-09-20T06:31:41Z"
-    },
-    {
-      "url": "https://github.com/xevrion-v2/agent-playground/issues/7",
-      "title": "Add API error handling helper",
-      "repository": "xevrion-v2/agent-playground",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -55,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "事项近期活跃",
-        "竞争或噪声极高",
-        "验收条件较明确"
-      ],
-      "comments": 60,
-      "repo_stars": 307,
-      "repo_archived": false,
-      "updated_at": "2026-09-20T02:10:15Z"
-    },
-    {
-      "url": "https://github.com/xevrion-v2/agent-playground/issues/2",
-      "title": "Fix typo in README",
-      "repository": "xevrion-v2/agent-playground",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -55,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "事项近期活跃",
-        "竞争或噪声极高",
-        "验收条件较明确"
-      ],
-      "comments": 121,
-      "repo_stars": 307,
-      "repo_archived": false,
-      "updated_at": "2026-09-18T18:12:22Z"
+      "updated_at": "2026-09-27T11:57:39Z"
     }
   ]
 }
