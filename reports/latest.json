@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-09-28T06:47:57.804554+00:00",
+  "generated_at": "2026-10-05T06:58:16.451062+00:00",
   "candidates": [
+    {
+      "url": "https://github.com/seveibar/pgstrap/issues/2",
+      "title": "Use pglite so that postgres isn't required when generating types",
+      "repository": "seveibar/pgstrap",
+      "reward_usd": 30.0,
+      "reward_source": "algora-pbc",
+      "score": 3,
+      "decision": "reject",
+      "reasons": [
+        "可信付款机器人确认 $30",
+        "单笔金额可覆盖月目标",
+        "事项近期活跃",
+        "竞争或噪声极高",
+        "验收条件不够明确"
+      ],
+      "comments": 51,
+      "repo_stars": 42,
+      "repo_archived": false,
+      "updated_at": "2026-10-05T00:33:23Z"
+    },
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
+      "title": "Reject inverted job budget ranges in job validation",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 11,
+      "repo_stars": 314,
+      "repo_archived": false,
+      "updated_at": "2026-10-04T12:40:16Z"
+    },
+    {
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
+      "title": "Freelancer profile route should resolve mock profiles by username",
+      "repository": "SecureBananaLabs/bug-bounty",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 23,
+      "repo_stars": 314,
+      "repo_archived": false,
+      "updated_at": "2026-10-04T12:29:11Z"
+    },
     {
       "url": "https://github.com/Mantitup-Org/vista/issues/61",
       "title": "Bounty: hunt bugs across the entire Vista framework",
@@ -16,9 +74,9 @@
         "验收条件不够明确"
       ],
       "comments": 13,
-      "repo_stars": 2398,
+      "repo_stars": 2371,
       "repo_archived": false,
-      "updated_at": "2026-09-23T17:14:01Z"
+      "updated_at": "2026-10-04T10:24:57Z"
     },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
@@ -35,7 +93,7 @@
         "验收条件不够明确"
       ],
       "comments": 15,
-      "repo_stars": 300,
+      "repo_stars": 314,
       "repo_archived": false,
       "updated_at": "2026-09-23T09:43:47Z"
     },
@@ -54,7 +112,7 @@
         "验收条件不够明确"
       ],
       "comments": 16,
-      "repo_stars": 300,
+      "repo_stars": 314,
       "repo_archived": false,
       "updated_at": "2026-09-23T09:43:33Z"
     },
@@ -73,29 +131,9 @@
         "验收条件不够明确"
       ],
       "comments": 11,
-      "repo_stars": 300,
+      "repo_stars": 314,
       "repo_archived": false,
       "updated_at": "2026-09-23T09:43:26Z"
-    },
-    {
-      "url": "https://github.com/OphirPay/OphirPay/issues/810",
-      "title": "Handle payment request expiration and reminders",
-      "repository": "OphirPay/OphirPay",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -21,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "当前竞争较低",
-        "验收条件较明确"
-      ],
-      "comments": 4,
-      "repo_stars": 4,
-      "repo_archived": false,
-      "updated_at": "2026-09-27T17:00:49Z"
     },
     {
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
@@ -115,44 +153,6 @@
       "repo_stars": 10,
       "repo_archived": false,
       "updated_at": "2026-09-26T15:13:20Z"
-    },
-    {
-      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
-      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
-      "repository": "Nexussyn/ai-growth-platform",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -29,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 18,
-      "repo_stars": 2,
-      "repo_archived": false,
-      "updated_at": "2026-09-27T21:45:04Z"
-    },
-    {
-      "url": "https://github.com/OphirPay/OphirPay/issues/795",
-      "title": "Extend the currency display toggle beyond the payments table",
-      "repository": "OphirPay/OphirPay",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -29,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 9,
-      "repo_stars": 4,
-      "repo_archived": false,
-      "updated_at": "2026-09-27T11:57:39Z"
     }
   ]
 }
