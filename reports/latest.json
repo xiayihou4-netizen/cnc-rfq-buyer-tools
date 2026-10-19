@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-12T07:18:25.156338+00:00",
+  "generated_at": "2026-10-19T06:07:53.565655+00:00",
   "candidates": [
-    {
-      "url": "https://github.com/Mantitup-Org/vista/issues/61",
-      "title": "Bounty: hunt bugs across the entire Vista framework",
-      "repository": "Mantitup-Org/vista",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -20,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "事项近期活跃",
-        "验收条件不够明确"
-      ],
-      "comments": 18,
-      "repo_stars": 2349,
-      "repo_archived": false,
-      "updated_at": "2026-10-11T08:24:05Z"
-    },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1774",
       "title": "CORS configured with no origin restrictions — allows any domain",
@@ -34,10 +15,10 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 17,
-      "repo_stars": 321,
+      "comments": 16,
+      "repo_stars": 329,
       "repo_archived": false,
-      "updated_at": "2026-10-09T15:19:18Z"
+      "updated_at": "2026-10-18T01:45:06Z"
     },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
@@ -53,10 +34,29 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 17,
-      "repo_stars": 321,
+      "comments": 19,
+      "repo_stars": 329,
       "repo_archived": false,
-      "updated_at": "2026-10-05T18:14:08Z"
+      "updated_at": "2026-10-18T01:44:07Z"
+    },
+    {
+      "url": "https://github.com/Mantitup-Org/vista/issues/61",
+      "title": "Bounty: hunt bugs across the entire Vista framework",
+      "repository": "Mantitup-Org/vista",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -20,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库有一定社区基础",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 18,
+      "repo_stars": 2342,
+      "repo_archived": false,
+      "updated_at": "2026-10-11T08:24:05Z"
     },
     {
       "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
@@ -73,7 +73,7 @@
         "验收条件不够明确"
       ],
       "comments": 11,
-      "repo_stars": 321,
+      "repo_stars": 329,
       "repo_archived": false,
       "updated_at": "2026-10-04T12:40:16Z"
     },
@@ -92,45 +92,9 @@
         "验收条件不够明确"
       ],
       "comments": 23,
-      "repo_stars": 321,
+      "repo_stars": 329,
       "repo_archived": false,
       "updated_at": "2026-10-04T12:29:11Z"
-    },
-    {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
-      "title": "User creation endpoint has no input validation",
-      "repository": "SecureBananaLabs/bug-bounty",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -28,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "验收条件不够明确"
-      ],
-      "comments": 16,
-      "repo_stars": 321,
-      "repo_archived": false,
-      "updated_at": "2026-09-23T09:43:33Z"
-    },
-    {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2776",
-      "title": "POST /api/reviews endpoint missing authentication middleware (reissue via #743)",
-      "repository": "SecureBananaLabs/bug-bounty",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -28,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "验收条件不够明确"
-      ],
-      "comments": 11,
-      "repo_stars": 321,
-      "repo_archived": false,
-      "updated_at": "2026-09-23T09:43:26Z"
     },
     {
       "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
@@ -146,10 +110,48 @@
         "事项近期活跃",
         "验收条件较明确"
       ],
-      "comments": 25,
+      "comments": 23,
       "repo_stars": 2,
       "repo_archived": false,
-      "updated_at": "2026-10-11T04:39:31Z"
+      "updated_at": "2026-10-12T16:50:15Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -32,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 7,
+      "repo_stars": 13,
+      "repo_archived": false,
+      "updated_at": "2026-10-17T22:24:26Z"
+    },
+    {
+      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
+      "title": "📋 2 open bounties right now",
+      "repository": "habibdxb01/bounty-watcher",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -36,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "当前竞争较低",
+        "验收条件不够明确"
+      ],
+      "comments": 0,
+      "repo_stars": 0,
+      "repo_archived": false,
+      "updated_at": "2026-10-13T22:47:59Z"
     }
   ]
 }
