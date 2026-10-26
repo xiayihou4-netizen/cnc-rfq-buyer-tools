@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-19T06:07:53.565655+00:00",
+  "generated_at": "2026-10-26T06:06:27.057625+00:00",
   "candidates": [
-    {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1774",
-      "title": "CORS configured with no origin restrictions — allows any domain",
-      "repository": "SecureBananaLabs/bug-bounty",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -20,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "事项近期活跃",
-        "验收条件不够明确"
-      ],
-      "comments": 16,
-      "repo_stars": 329,
-      "repo_archived": false,
-      "updated_at": "2026-10-18T01:45:06Z"
-    },
-    {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1770",
-      "title": "Admin routes lack role-based access control — any authenticated user can access admin endpoints",
-      "repository": "SecureBananaLabs/bug-bounty",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -20,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库有一定社区基础",
-        "事项近期活跃",
-        "验收条件不够明确"
-      ],
-      "comments": 19,
-      "repo_stars": 329,
-      "repo_archived": false,
-      "updated_at": "2026-10-18T01:44:07Z"
-    },
     {
       "url": "https://github.com/Mantitup-Org/vista/issues/61",
       "title": "Bounty: hunt bugs across the entire Vista framework",
@@ -53,14 +15,14 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 18,
-      "repo_stars": 2342,
+      "comments": 19,
+      "repo_stars": 2336,
       "repo_archived": false,
-      "updated_at": "2026-10-11T08:24:05Z"
+      "updated_at": "2026-10-25T17:35:49Z"
     },
     {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2835",
-      "title": "Reject inverted job budget ranges in job validation",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2776",
+      "title": "POST /api/reviews endpoint missing authentication middleware (reissue via #743)",
       "repository": "SecureBananaLabs/bug-bounty",
       "reward_usd": null,
       "reward_source": null,
@@ -72,14 +34,14 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 11,
-      "repo_stars": 329,
+      "comments": 14,
+      "repo_stars": 342,
       "repo_archived": false,
-      "updated_at": "2026-10-04T12:40:16Z"
+      "updated_at": "2026-10-25T05:36:01Z"
     },
     {
-      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/2849",
-      "title": "Freelancer profile route should resolve mock profiles by username",
+      "url": "https://github.com/SecureBananaLabs/bug-bounty/issues/1773",
+      "title": "User creation endpoint has no input validation",
       "repository": "SecureBananaLabs/bug-bounty",
       "reward_usd": null,
       "reward_source": null,
@@ -91,15 +53,15 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 23,
-      "repo_stars": 329,
+      "comments": 19,
+      "repo_stars": 342,
       "repo_archived": false,
-      "updated_at": "2026-10-04T12:29:11Z"
+      "updated_at": "2026-10-23T22:30:18Z"
     },
     {
-      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
-      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
-      "repository": "Nexussyn/ai-growth-platform",
+      "url": "https://github.com/shaiananvari8/zeroeye/issues/1",
+      "title": "[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling",
+      "repository": "shaiananvari8/zeroeye",
       "reward_usd": null,
       "reward_source": null,
       "score": -29,
@@ -110,13 +72,32 @@
         "事项近期活跃",
         "验收条件较明确"
       ],
-      "comments": 23,
-      "repo_stars": 2,
+      "comments": 17,
+      "repo_stars": 1,
       "repo_archived": false,
-      "updated_at": "2026-10-12T16:50:15Z"
+      "updated_at": "2026-10-26T00:59:52Z"
     },
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "url": "https://github.com/sorosave-protocol/frontend/issues/42",
+      "title": "Add PWA support (Progressive Web App)",
+      "repository": "sorosave-protocol/frontend",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -29,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "仓库社区信号很弱",
+        "事项近期活跃",
+        "验收条件较明确"
+      ],
+      "comments": 12,
+      "repo_stars": 5,
+      "repo_archived": false,
+      "updated_at": "2026-10-25T05:36:05Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
       "title": "[Bounty] 📋 2 open bounties right now",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
@@ -128,30 +109,46 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 7,
+      "comments": 8,
       "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-10-17T22:24:26Z"
+      "updated_at": "2026-10-26T05:07:04Z"
     },
     {
-      "url": "https://github.com/habibdxb01/bounty-watcher/issues/5",
-      "title": "📋 2 open bounties right now",
-      "repository": "habibdxb01/bounty-watcher",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
+      "title": "[BOUNTY] Suggestion #1291",
+      "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
       "reward_usd": null,
       "reward_source": null,
-      "score": -36,
+      "score": -32,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
         "事项近期活跃",
-        "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 0,
+      "comments": 10,
+      "repo_stars": 64,
       "repo_archived": false,
-      "updated_at": "2026-10-13T22:47:59Z"
+      "updated_at": "2026-10-25T05:35:01Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
+      "title": "[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -32,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 8,
+      "repo_stars": 13,
+      "repo_archived": false,
+      "updated_at": "2026-10-22T18:56:52Z"
     }
   ]
 }
