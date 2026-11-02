@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:06:27.057625+00:00",
+  "generated_at": "2026-11-02T07:37:42.974255+00:00",
   "candidates": [
     {
       "url": "https://github.com/Mantitup-Org/vista/issues/61",
@@ -16,7 +16,7 @@
         "验收条件不够明确"
       ],
       "comments": 19,
-      "repo_stars": 2336,
+      "repo_stars": 2318,
       "repo_archived": false,
       "updated_at": "2026-10-25T17:35:49Z"
     },
@@ -35,7 +35,7 @@
         "验收条件不够明确"
       ],
       "comments": 14,
-      "repo_stars": 342,
+      "repo_stars": 347,
       "repo_archived": false,
       "updated_at": "2026-10-25T05:36:01Z"
     },
@@ -54,28 +54,28 @@
         "验收条件不够明确"
       ],
       "comments": 19,
-      "repo_stars": 342,
+      "repo_stars": 347,
       "repo_archived": false,
       "updated_at": "2026-10-23T22:30:18Z"
     },
     {
-      "url": "https://github.com/shaiananvari8/zeroeye/issues/1",
-      "title": "[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling",
-      "repository": "shaiananvari8/zeroeye",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
-      "score": -29,
+      "score": -24,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
         "事项近期活跃",
-        "验收条件较明确"
+        "当前竞争较低",
+        "验收条件不够明确"
       ],
-      "comments": 17,
-      "repo_stars": 1,
+      "comments": 4,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-10-26T00:59:52Z"
+      "updated_at": "2026-10-29T22:08:00Z"
     },
     {
       "url": "https://github.com/sorosave-protocol/frontend/issues/42",
@@ -97,24 +97,6 @@
       "updated_at": "2026-10-25T05:36:05Z"
     },
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080",
-      "title": "[Bounty] 📋 2 open bounties right now",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -32,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "事项近期活跃",
-        "验收条件不够明确"
-      ],
-      "comments": 8,
-      "repo_stars": 13,
-      "repo_archived": false,
-      "updated_at": "2026-10-26T05:07:04Z"
-    },
-    {
       "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327",
       "title": "[BOUNTY] Suggestion #1291",
       "repository": "SPLURT-Station/S.P.L.U.R.T-tg",
@@ -127,10 +109,28 @@
         "事项近期活跃",
         "验收条件不够明确"
       ],
-      "comments": 10,
+      "comments": 9,
       "repo_stars": 64,
       "repo_archived": false,
-      "updated_at": "2026-10-25T05:35:01Z"
+      "updated_at": "2026-10-31T11:31:17Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891",
+      "title": "[Bounty] 📋 2 open bounties right now",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -32,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "事项近期活跃",
+        "验收条件不够明确"
+      ],
+      "comments": 7,
+      "repo_stars": 13,
+      "repo_archived": false,
+      "updated_at": "2026-10-29T22:08:06Z"
     },
     {
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217",
