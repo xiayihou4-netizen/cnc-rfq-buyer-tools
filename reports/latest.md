@@ -1,75 +1,75 @@
 # GitHub 悬赏候选
 
-生成时间：2026-11-02T07:37:42.974255+00:00
+生成时间：2026-11-09T07:53:44.519943+00:00
 
-## [Bounty: hunt bugs across the entire Vista framework](https://github.com/Mantitup-Org/vista/issues/61)
-
-- 决策：`reject`
-- 评分：-20
-- 验证金额：未验证
-- 仓库：`Mantitup-Org/vista`（2318 Stars）
-- 评论数：19
-- 依据：没有可信付款机器人确认金额；仓库有一定社区基础；事项近期活跃；验收条件不够明确
-
-## [POST /api/reviews endpoint missing authentication middleware (reissue via #743)](https://github.com/SecureBananaLabs/bug-bounty/issues/2776)
-
-- 决策：`reject`
-- 评分：-20
-- 验证金额：未验证
-- 仓库：`SecureBananaLabs/bug-bounty`（347 Stars）
-- 评论数：14
-- 依据：没有可信付款机器人确认金额；仓库有一定社区基础；事项近期活跃；验收条件不够明确
-
-## [User creation endpoint has no input validation](https://github.com/SecureBananaLabs/bug-bounty/issues/1773)
-
-- 决策：`reject`
-- 评分：-20
-- 验证金额：未验证
-- 仓库：`SecureBananaLabs/bug-bounty`（347 Stars）
-- 评论数：19
-- 依据：没有可信付款机器人确认金额；仓库有一定社区基础；事项近期活跃；验收条件不够明确
-
-## [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4080)
+## [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277)
 
 - 决策：`reject`
 - 评分：-24
 - 验证金额：未验证
-- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（13 Stars）
-- 评论数：4
+- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（14 Stars）
+- 评论数：0
 - 依据：没有可信付款机器人确认金额；事项近期活跃；当前竞争较低；验收条件不够明确
 
-## [Add PWA support (Progressive Web App)](https://github.com/sorosave-protocol/frontend/issues/42)
+## [[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276)
+
+- 决策：`reject`
+- 评分：-24
+- 验证金额：未验证
+- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（14 Stars）
+- 评论数：0
+- 依据：没有可信付款机器人确认金额；事项近期活跃；当前竞争较低；验收条件不够明确
+
+## [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275)
+
+- 决策：`reject`
+- 评分：-24
+- 验证金额：未验证
+- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（14 Stars）
+- 评论数：0
+- 依据：没有可信付款机器人确认金额；事项近期活跃；当前竞争较低；验收条件不够明确
+
+## [[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274)
+
+- 决策：`reject`
+- 评分：-24
+- 验证金额：未验证
+- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（14 Stars）
+- 评论数：0
+- 依据：没有可信付款机器人确认金额；事项近期活跃；当前竞争较低；验收条件不够明确
+
+## [Implement group invitation flow with shareable links](https://github.com/sorosave-protocol/frontend/issues/48)
 
 - 决策：`reject`
 - 评分：-29
 - 验证金额：未验证
 - 仓库：`sorosave-protocol/frontend`（5 Stars）
-- 评论数：12
+- 评论数：6
 - 依据：没有可信付款机器人确认金额；仓库社区信号很弱；事项近期活跃；验收条件较明确
 
-## [[BOUNTY] Suggestion #1291](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327)
+## [[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20)
 
 - 决策：`reject`
-- 评分：-32
+- 评分：-36
 - 验证金额：未验证
-- 仓库：`SPLURT-Station/S.P.L.U.R.T-tg`（64 Stars）
-- 评论数：9
-- 依据：没有可信付款机器人确认金额；事项近期活跃；验收条件不够明确
+- 仓库：`PhanKhoa95/oss-bot-trap-benchmark`（0 Stars）
+- 评论数：3
+- 依据：没有可信付款机器人确认金额；仓库社区信号很弱；事项近期活跃；当前竞争较低；验收条件不够明确
 
-## [[Bounty] 📋 2 open bounties right now](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891)
+## [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2)
 
 - 决策：`reject`
-- 评分：-32
+- 评分：-36
 - 验证金额：未验证
-- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（13 Stars）
-- 评论数：7
-- 依据：没有可信付款机器人确认金额；事项近期活跃；验收条件不够明确
+- 仓库：`IES-BoilerRoom/mlir-tensor-tiling-pass`（0 Stars）
+- 评论数：0
+- 依据：没有可信付款机器人确认金额；仓库社区信号很弱；事项近期活跃；当前竞争较低；验收条件不够明确
 
-## [[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1217)
+## [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1)
 
 - 决策：`reject`
-- 评分：-32
+- 评分：-36
 - 验证金额：未验证
-- 仓库：`zhangjiayang6835-cyber/bounty-plaza`（13 Stars）
-- 评论数：8
-- 依据：没有可信付款机器人确认金额；事项近期活跃；验收条件不够明确
+- 仓库：`IES-BoilerRoom/mlir-tensor-tiling-pass`（0 Stars）
+- 评论数：0
+- 依据：没有可信付款机器人确认金额；仓库社区信号很弱；事项近期活跃；当前竞争较低；验收条件不够明确
