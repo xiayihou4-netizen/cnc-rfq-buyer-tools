@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T07:53:44.519943+00:00",
+  "generated_at": "2026-11-16T07:55:48.431536+00:00",
   "candidates": [
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277",
-      "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
+      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
@@ -15,14 +15,14 @@
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 14,
+      "comments": 4,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T16:47:45Z"
+      "updated_at": "2026-11-16T03:32:59Z"
     },
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276",
-      "title": "[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206",
+      "title": "[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
@@ -34,14 +34,14 @@
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 14,
+      "comments": 3,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T16:47:45Z"
+      "updated_at": "2026-11-16T03:32:08Z"
     },
     {
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275",
-      "title": "[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205",
+      "title": "[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda",
       "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
@@ -53,10 +53,10 @@
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 14,
+      "comments": 3,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T16:47:44Z"
+      "updated_at": "2026-11-16T03:31:15Z"
     },
     {
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274",
@@ -72,89 +72,86 @@
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 14,
+      "comments": 2,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T16:47:44Z"
+      "updated_at": "2026-11-16T02:35:21Z"
     },
     {
-      "url": "https://github.com/sorosave-protocol/frontend/issues/48",
-      "title": "Implement group invitation flow with shareable links",
-      "repository": "sorosave-protocol/frontend",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339",
+      "title": "[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
-      "score": -29,
+      "score": -24,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
-        "事项近期活跃",
-        "验收条件较明确"
-      ],
-      "comments": 6,
-      "repo_stars": 5,
-      "repo_archived": false,
-      "updated_at": "2026-11-08T19:23:29Z"
-    },
-    {
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20",
-      "title": "[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap",
-      "repository": "PhanKhoa95/oss-bot-trap-benchmark",
-      "reward_usd": null,
-      "reward_source": null,
-      "score": -36,
-      "decision": "reject",
-      "reasons": [
-        "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
         "事项近期活跃",
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 3,
-      "repo_stars": 0,
+      "comments": 2,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T14:31:21Z"
+      "updated_at": "2026-11-16T02:34:23Z"
     },
     {
-      "url": "https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2",
-      "title": "💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption",
-      "repository": "IES-BoilerRoom/mlir-tensor-tiling-pass",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4341",
+      "title": "[Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
-      "score": -36,
+      "score": -24,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
         "事项近期活跃",
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 0,
+      "comments": 2,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T11:53:08Z"
+      "updated_at": "2026-11-16T02:21:45Z"
     },
     {
-      "url": "https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1",
-      "title": "💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff",
-      "repository": "IES-BoilerRoom/mlir-tensor-tiling-pass",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4340",
+      "title": "[Bounty] [Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
       "reward_usd": null,
       "reward_source": null,
-      "score": -36,
+      "score": -24,
       "decision": "reject",
       "reasons": [
         "没有可信付款机器人确认金额",
-        "仓库社区信号很弱",
         "事项近期活跃",
         "当前竞争较低",
         "验收条件不够明确"
       ],
-      "comments": 0,
-      "repo_stars": 0,
+      "comments": 2,
+      "repo_stars": 13,
       "repo_archived": false,
-      "updated_at": "2026-11-08T10:53:31Z"
+      "updated_at": "2026-11-16T02:20:54Z"
+    },
+    {
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4338",
+      "title": "[Bounty] [Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B ",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "reward_usd": null,
+      "reward_source": null,
+      "score": -24,
+      "decision": "reject",
+      "reasons": [
+        "没有可信付款机器人确认金额",
+        "事项近期活跃",
+        "当前竞争较低",
+        "验收条件不够明确"
+      ],
+      "comments": 2,
+      "repo_stars": 13,
+      "repo_archived": false,
+      "updated_at": "2026-11-16T02:20:04Z"
     }
   ]
 }
